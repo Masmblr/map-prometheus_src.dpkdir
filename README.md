@@ -2,7 +2,15 @@
 
 Prometheus is a demonstration map for my texture pack. 
 This map brings together all the unfinished components that have accumulated over the years, 
-including the map 'Stahl'. This will be my final map for Unvanquished.
+including the map 'Stahl'. This will be my final (last) map for Unvanquished.
+
+---
+17.11.2024:
+
+-Small update to the middle area: The Human Base (H, blue) is located in the upper left area, and the Alien Base (A, red)  <br />
+in the lower right area. Each base has 3 entrances. The fourth can be considered shared. The areas with pink texture are paths that can be unlocked.
+
+![Screenshot](img/unvanquished_2024-11-17_192853_000.jpg) 
 
 ---
 13.11.2024:
@@ -31,4 +39,3 @@ The first terrain tests look quite decent.
 ![Screenshot](img/unvanquished_2024-11-03_185743_000.jpg) 
 ![Screenshot](img/unvanquished_2024-11-03_185718_000.jpg) 
 ![Screenshot](img/unvanquished_2024-11-03_185705_000.jpg) 
-
