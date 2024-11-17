@@ -7,7 +7,7 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 ---
 17.11.2024:
 
--Small update to the middle area: The Human Base (H, blue) is located in the upper left area, and the Alien Base (A, red)  <br />
+-Small update to the middle area: The Human Base (H, blue) is located in the upper left area, and the Alien Base (A, red)
 in the lower right area. Each base has 3 entrances. The fourth can be considered shared. The areas with pink texture are paths that can be unlocked.
 
 ![Screenshot](img/unvanquished_2024-11-17_192853_000.jpg) 
