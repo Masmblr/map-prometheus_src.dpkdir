@@ -1,4 +1,4 @@
-## Prometheus Development Blog
+![header](img/header.jpg) 
 
 Prometheus is a demonstration map for my texture pack. 
 This map brings together all the unfinished components that have accumulated over the years, 
