@@ -6,7 +6,7 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 
 ---
-17.11.2024:
+12.01.2025:
 
 -After a break, the Human Base is almost complete. It consists of two floors, an elevator, a vertical shaft with ladders, and a staircase.  <br />
 
