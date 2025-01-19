@@ -8,7 +8,7 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 19.01.2024:
 
 -The human spawn site (called "Outpost") is mostly complete. The main spawn point is located in the center of the ground floor. <br />
-This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.
+This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.  <br />
 -The upper level consists of a storage area and a control room. These two rooms are connected by two walkways, one of which features a vertical shaft. <br />
 -The outpost can be accessed through the main entrance and a broken ventilation shaft, which must first be opened, similar to the destructible pipes. <br />
 
