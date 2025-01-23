@@ -5,10 +5,17 @@ This map brings together all the unfinished components that have accumulated ove
 including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 
+23.01.2024:
+
+-Der innere Outpost bereich hat einen weiteren Zugang erhalten da ich vergessen hatte ;) <br />
+-Der Front bereich sieht soweit schon ganz ok aus... <br />
+![Screenshot](img/unvanquished_2025-01-23_072346_000.jpg)
+
+
 19.01.2024:
 
 -The human spawn site (called "Outpost") is mostly complete. The main spawn point is located in the center of the ground floor. <br />
-This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.  <br />
+This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.
 -The upper level consists of a storage area and a control room. These two rooms are connected by two walkways, one of which features a vertical shaft. <br />
 -The outpost can be accessed through the main entrance and a broken ventilation shaft, which must first be opened, similar to the destructible pipes. <br />
 
@@ -28,7 +35,7 @@ This area is flanked by two pipes, which all aliens except Tyrants can pass thro
 ![Screenshot](img/unvanquished_2025-01-19_180129_000.jpg)
 
 ---
-12.01.2025:
+12.01.2024:
 
 -After a break, the Human Base is almost complete. It consists of two floors, an elevator, a vertical shaft with ladders, and a staircase.  <br />
 
