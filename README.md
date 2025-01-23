@@ -7,8 +7,8 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 23.01.2024:
 
--Der innere Outpost bereich hat einen weiteren Zugang erhalten da ich vergessen hatte ;) <br />
--Der Front bereich sieht soweit schon ganz ok aus... <br />
+-The inner outpost area has received another access point because I had forgotten it ;)
+-The front area already looks pretty okay so far... <br />
 ![Screenshot](img/unvanquished_2025-01-23_072346_000.jpg)
 
 
