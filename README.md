@@ -5,13 +5,24 @@ This map brings together all the unfinished components that have accumulated ove
 including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 
+27.01.2024:
+
+-I’m satisfied with the rocks. I’m still not sure about the texture. The PK rocks might be more suitable, but since they are gray, they would make the scene even darker, and I like the current contrast.  <br />
+-The first half of the central area is almost finished. I hope to finish the second half this week.  <br />
+
+![Screenshot](img/unvanquished_2025-01-27_185846_000.jpg)
+![Screenshot](img/unvanquished_2025-01-27_185900_000.jpg)
+![Screenshot](img/unvanquished_2025-01-27_185924_000.jpg)
+![Screenshot](img/unvanquished_2025-01-27_185954_000.jpg)
+
+---
 23.01.2024:
 
 -The inner outpost area has received another access point because I had forgotten it ;) <br />
 -The front area already looks pretty okay so far... <br />
 ![Screenshot](img/unvanquished_2025-01-23_072346_000.jpg)
 
-
+---
 19.01.2024:
 
 -The human spawn site (called "Outpost") is mostly complete. The main spawn point is located in the center of the ground floor. <br />
