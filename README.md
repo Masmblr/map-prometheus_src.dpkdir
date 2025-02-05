@@ -3,11 +3,11 @@
 Prometheus is a demonstration map for my texture pack. 
 This map brings together all the unfinished components that have accumulated over the years, 
 including the map 'Stahl'. This will be my final (last) map for Unvanquished.
-
+---
 
 05.02.2025:
 
--Sometimes it feels like things drag on forever and just won't work out. The wall you have to overcome seems miles high. That's when I just want to give up. But then, the next day, everything suddenly falls into place effortlessly. WTF?.  <br />
+-Sometimes it feels like things drag on forever and just won't work out. The wall you have to overcome seems miles high. That's when I just want to give up. But then, the next day, everything suddenly falls into place effortlessly. WTF?  <br />
 
 -I love building on steep, hidden rocks. Don't you? <br />
 ![Screenshot](img/unvanquished_2025-02-05_221708_000.jpg)
