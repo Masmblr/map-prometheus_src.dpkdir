@@ -5,7 +5,16 @@ This map brings together all the unfinished components that have accumulated ove
 including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 
-27.01.2024:
+05.02.2025:
+
+-Sometimes it feels like things drag on forever and just won't work out. The wall you have to overcome seems miles high. That's when I just want to give up. But then, the next day, everything suddenly falls into place effortlessly. WTF?.  <br />
+
+-I love building on steep, hidden rocks. Don't you? <br />
+![Screenshot](img/unvanquished_2025-02-05_221708_000.jpg)
+
+---
+
+27.01.2025:
 
 -I’m satisfied with the rocks. I’m still not sure about the texture. The PK rocks might be more suitable, but since they are gray, they would make the scene even darker, and I like the current contrast.  <br />
 -The first half of the central area is almost finished. I hope to finish the second half this week.  <br />
@@ -16,14 +25,14 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 ![Screenshot](img/unvanquished_2025-01-27_185954_000.jpg)
 
 ---
-23.01.2024:
+23.01.2025:
 
 -The inner outpost area has received another access point because I had forgotten it ;) <br />
 -The front area already looks pretty okay so far... <br />
 ![Screenshot](img/unvanquished_2025-01-23_072346_000.jpg)
 
 ---
-19.01.2024:
+19.01.2025:
 
 -The human spawn site (called "Outpost") is mostly complete. The main spawn point is located in the center of the ground floor. <br />
 This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.
@@ -46,7 +55,7 @@ This area is flanked by two pipes, which all aliens except Tyrants can pass thro
 ![Screenshot](img/unvanquished_2025-01-19_180129_000.jpg)
 
 ---
-12.01.2024:
+12.01.2025:
 
 -After a break, the Human Base is almost complete. It consists of two floors, an elevator, a vertical shaft with ladders, and a staircase.  <br />
 
