@@ -6,12 +6,21 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 ---
 
-05.02.2025:
+16.02.2025:
+ 
+-The alien base is almost finished. One side room is still missing. <br />
+-The skybox has been reworked. <br />
 
--Sometimes it feels like things drag on forever and just won't work out. The wall you have to overcome seems miles high. That's when I just want to give up. But then, the next day, everything suddenly falls into place effortlessly. WTF?  <br />
-
--I love building on steep, hidden rocks. Don't you? <br />
-![Screenshot](img/unvanquished_2025-02-05_221708_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_143855_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_143925_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_144002_000.jpg)
+A mysterious object pierced the ground next to the humans' base.
+Did the aliens come through this object? <br />
+![Screenshot](img/unvanquished_2025-02-16_144011_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_144034_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_144052_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_144138_000.jpg)
+![Screenshot](img/unvanquished_2025-02-16_144226_000.jpg)
 
 ---
 
