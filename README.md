@@ -6,6 +6,39 @@ including the map 'Stahl'. This will be my final (last) map for Unvanquished.
 
 ---
 
+24.02.2025:
+ 
+Almost done!   <br />
+Prometheus is in the home stretch. Overall, all areas have been set up. Right now, I'm working on reworking the outer area located a bit outside (see screenshots).
+It’s the only part of the map that offers a good view of the skybox. So, it made sense to also update the skybox itself.
+The capabilities of the Q3/Daemon engine in this regard are quite limited, and you have to come up with a few tricks to create the illusion of a vast landscape.
+That’s why I’m really happy with the result. I decided to combine a standard skybox with "clouds" and a portal sky entity.
+This has the advantage of allowing models to be placed inside the skybox and adjusting the scale of the box itself (312x312x312).
+A higher scale would have been nice, but unfortunately, that leads to [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) issues.
+Beyond that, I’ve reworked some tunnels to increase variation. One of these is a collapsed tunnel.
+The idea was to make it look like it had been destroyed—let’s say by an earthquake—and then partially sunk. But I still wanted the tunnel to be passable.
+A large portion of the map structure is built using Quake-style brush primitives. Trying to rotate or shape them into complex forms as a whole is not a great idea.
+Brushes must always align with the Quake grid's intersections. During compile time, they would clip apart, turning the result into modern art.
+So, I decided to create this tunnel as a model (.obj) instead. These can be positioned without any issues. Generally, this approach is only useful in limited
+cases since models don’t affect visibility calculations (VIS), but in this case, it was perfect!  
+
+To do:   <br />
+- Location entities  
+- Sounds for interactive entities and ambient noise  
+- Barrels and boxes to populate the map  
+- Special entities like the bridge and middle pipes to add strategic purpose through (build) entity placement  
+
+
+![Screenshot](img/unvanquished_2025-02-24_181537_000.jpg)
+![Screenshot](img/unvanquished_2025-02-24_181553_000.jpg)
+![Screenshot](img/unvanquished_2025-02-24_181613_000.jpg)
+![Screenshot](img/unvanquished_2025-02-24_181647_000.jpg)
+![Screenshot](img/unvanquished_2025-02-24_193818_000.jpg)
+![Screenshot](img/unvanquished_2025-02-24_193636_000.jpg)
+
+
+---
+
 16.02.2025:
  
 -The alien base is almost finished. One side room is still missing. <br />
