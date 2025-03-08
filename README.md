@@ -72,80 +72,72 @@ It was designed as a demonstrator for my texture set [mas01](https://github.com/
 ## Features  
 - **Layout:** Designed to provide fair opportunities for both teams. Each team has an interactive element they can control. First, they must build either a drill (for Humans) or a booster (for Aliens) at the designated locations. Once activated, a red switch must be pressed to trigger the mechanism.
 
-  - Humans can control a bridge, which can block or open a strategic corridor:
-<p align="center">
-  <a href="screenshot40.webp"><img src="readme_files/screenshots/screenshot_40.webp" width="250"/></a>
-  <a href="screenshot41.webp"><img src="readme_files/screenshots/screenshot_41.webp" width="250"/></a>
-</p>
+- Humans can control a bridge, which can block or open a strategic corridor:
 
-  - Aliens can activate or deactivate a heat-conducting pipeline. When active, it deals **1 HP per second** in damage, creating a hazard for all ground units:  
-<p align="center">
-  <a href="screenshot42.webp"><img src="readme_files/screenshots/screenshot_42.webp" width="250"/></a>
-  <a href="screenshot43.webp"><img src="readme_files/screenshots/screenshot_43.webp" width="250"/></a>
-</p>
+[<img src="readme_files/screenshots/screenshot_40.webp" width="250"/>](readme_files/screenshots/screenshot_40.webp)
+[<img src="readme_files/screenshots/screenshot_41.webp" width="250"/>](readme_files/screenshots/screenshot_41.webp)
+
+- Aliens can activate or deactivate a heat-conducting pipeline. When active, it deals damage, creating a hazard for all ground units:
+
+[<img src="readme_files/screenshots/screenshot_42.webp" width="250"/>](readme_files/screenshots/screenshot_42.webp)
+[<img src="readme_files/screenshots/screenshot_43.webp" width="250"/>](readme_files/screenshots/screenshot_43.webp)
 
 ## Screenshots:
-<p align="center">
-  <a href="screenshot1.webp"><img src="readme_files/screenshots/screenshot_1.webp" width="250"/></a>
-  <a href="screenshot2.webp"><img src="readme_files/screenshots/screenshot_2.webp" width="250"/></a>
-  <a href="screenshot3.webp"><img src="readme_files/screenshots/screenshot_3.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot4.webp"><img src="readme_files/screenshots/screenshot_4.webp" width="250"/></a>
-  <a href="screenshot5.webp"><img src="readme_files/screenshots/screenshot_5.webp" width="250"/></a>
-  <a href="screenshot6.webp"><img src="readme_files/screenshots/screenshot_6.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot7.webp"><img src="readme_files/screenshots/screenshot_7.webp" width="250"/></a>
-  <a href="screenshot8.webp"><img src="readme_files/screenshots/screenshot_8.webp" width="250"/></a>
-  <a href="screenshot9.webp"><img src="readme_files/screenshots/screenshot_9.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot13.webp"><img src="readme_files/screenshots/screenshot_13.webp" width="250"/></a>
-  <a href="screenshot14.webp"><img src="readme_files/screenshots/screenshot_14.webp" width="250"/></a>
-  <a href="screenshot15.webp"><img src="readme_files/screenshots/screenshot_15.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot16.webp"><img src="readme_files/screenshots/screenshot_16.webp" width="250"/></a>
-  <a href="screenshot17.webp"><img src="readme_files/screenshots/screenshot_17.webp" width="250"/></a>
-  <a href="screenshot18.webp"><img src="readme_files/screenshots/screenshot_18.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot19.webp"><img src="readme_files/screenshots/screenshot_19.webp" width="250"/></a>
-  <a href="screenshot20.webp"><img src="readme_files/screenshots/screenshot_20.webp" width="250"/></a>
-  <a href="screenshot21.webp"><img src="readme_files/screenshots/screenshot_21.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot22.webp"><img src="readme_files/screenshots/screenshot_22.webp" width="250"/></a>
-  <a href="screenshot23.webp"><img src="readme_files/screenshots/screenshot_23.webp" width="250"/></a>
-  <a href="screenshot24.webp"><img src="readme_files/screenshots/screenshot_24.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot25.webp"><img src="readme_files/screenshots/screenshot_25.webp" width="250"/></a>
-  <a href="screenshot26.webp"><img src="readme_files/screenshots/screenshot_26.webp" width="250"/></a>
-  <a href="screenshot27.webp"><img src="readme_files/screenshots/screenshot_27.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot28.webp"><img src="readme_files/screenshots/screenshot_28.webp" width="250"/></a>
-  <a href="screenshot29.webp"><img src="readme_files/screenshots/screenshot_29.webp" width="250"/></a>
-  <a href="screenshot30.webp"><img src="readme_files/screenshots/screenshot_30.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot31.webp"><img src="readme_files/screenshots/screenshot_31.webp" width="250"/></a>
-  <a href="screenshot32.webp"><img src="readme_files/screenshots/screenshot_32.webp" width="250"/></a>
-  <a href="screenshot33.webp"><img src="readme_files/screenshots/screenshot_33.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot34.webp"><img src="readme_files/screenshots/screenshot_34.webp" width="250"/></a>
-  <a href="screenshot35.webp"><img src="readme_files/screenshots/screenshot_35.webp" width="250"/></a>
-  <a href="screenshot36.webp"><img src="readme_files/screenshots/screenshot_36.webp" width="250"/></a>
-</p>
-<p align="center">
-  <a href="screenshot37.webp"><img src="readme_files/screenshots/screenshot_37.webp" width="250"/></a>
-  <a href="screenshot38.webp"><img src="readme_files/screenshots/screenshot_38.webp" width="250"/></a>
-  <a href="screenshot39.webp"><img src="readme_files/screenshots/screenshot_39.webp" width="250"/></a>
-  <a href="screenshot10.webp"><img src="readme_files/screenshots/screenshot_10.webp" width="250"/></a>
-</p>
+[<img src="readme_files/screenshots/screenshot_40.webp" width="250"/>](readme_files/screenshots/screenshot_40.webp)
+[<img src="readme_files/screenshots/screenshot_41.webp" width="250"/>](readme_files/screenshots/screenshot_41.webp)
+[<img src="readme_files/screenshots/screenshot_42.webp" width="250"/>](readme_files/screenshots/screenshot_42.webp)
+
+[<img src="readme_files/screenshots/screenshot_43.webp" width="250"/>](readme_files/screenshots/screenshot_43.webp)
+[<img src="readme_files/screenshots/screenshot_1.webp" width="250"/>](readme_files/screenshots/screenshot_1.webp)
+[<img src="readme_files/screenshots/screenshot_2.webp" width="250"/>](readme_files/screenshots/screenshot_2.webp)
+
+[<img src="readme_files/screenshots/screenshot_3.webp" width="250"/>](readme_files/screenshots/screenshot_3.webp)
+[<img src="readme_files/screenshots/screenshot_4.webp" width="250"/>](readme_files/screenshots/screenshot_4.webp)
+[<img src="readme_files/screenshots/screenshot_5.webp" width="250"/>](readme_files/screenshots/screenshot_5.webp)
+
+[<img src="readme_files/screenshots/screenshot_6.webp" width="250"/>](readme_files/screenshots/screenshot_6.webp)
+[<img src="readme_files/screenshots/screenshot_7.webp" width="250"/>](readme_files/screenshots/screenshot_7.webp)
+[<img src="readme_files/screenshots/screenshot_8.webp" width="250"/>](readme_files/screenshots/screenshot_8.webp)
+
+[<img src="readme_files/screenshots/screenshot_9.webp" width="250"/>](readme_files/screenshots/screenshot_9.webp)
+[<img src="readme_files/screenshots/screenshot_13.webp" width="250"/>](readme_files/screenshots/screenshot_13.webp)
+[<img src="readme_files/screenshots/screenshot_14.webp" width="250"/>](readme_files/screenshots/screenshot_14.webp)
+
+[<img src="readme_files/screenshots/screenshot_15.webp" width="250"/>](readme_files/screenshots/screenshot_15.webp)
+[<img src="readme_files/screenshots/screenshot_16.webp" width="250"/>](readme_files/screenshots/screenshot_16.webp)
+[<img src="readme_files/screenshots/screenshot_17.webp" width="250"/>](readme_files/screenshots/screenshot_17.webp)
+
+[<img src="readme_files/screenshots/screenshot_18.webp" width="250"/>](readme_files/screenshots/screenshot_18.webp)
+[<img src="readme_files/screenshots/screenshot_19.webp" width="250"/>](readme_files/screenshots/screenshot_19.webp)
+[<img src="readme_files/screenshots/screenshot_20.webp" width="250"/>](readme_files/screenshots/screenshot_20.webp)
+
+[<img src="readme_files/screenshots/screenshot_21.webp" width="250"/>](readme_files/screenshots/screenshot_21.webp)
+[<img src="readme_files/screenshots/screenshot_22.webp" width="250"/>](readme_files/screenshots/screenshot_22.webp)
+[<img src="readme_files/screenshots/screenshot_23.webp" width="250"/>](readme_files/screenshots/screenshot_23.webp)
+
+[<img src="readme_files/screenshots/screenshot_24.webp" width="250"/>](readme_files/screenshots/screenshot_24.webp)
+[<img src="readme_files/screenshots/screenshot_25.webp" width="250"/>](readme_files/screenshots/screenshot_25.webp)
+[<img src="readme_files/screenshots/screenshot_26.webp" width="250"/>](readme_files/screenshots/screenshot_26.webp)
+
+[<img src="readme_files/screenshots/screenshot_27.webp" width="250"/>](readme_files/screenshots/screenshot_27.webp)
+[<img src="readme_files/screenshots/screenshot_28.webp" width="250"/>](readme_files/screenshots/screenshot_28.webp)
+[<img src="readme_files/screenshots/screenshot_29.webp" width="250"/>](readme_files/screenshots/screenshot_29.webp)
+
+[<img src="readme_files/screenshots/screenshot_30.webp" width="250"/>](readme_files/screenshots/screenshot_30.webp)
+[<img src="readme_files/screenshots/screenshot_31.webp" width="250"/>](readme_files/screenshots/screenshot_31.webp)
+[<img src="readme_files/screenshots/screenshot_32.webp" width="250"/>](readme_files/screenshots/screenshot_32.webp)
+
+[<img src="readme_files/screenshots/screenshot_33.webp" width="250"/>](readme_files/screenshots/screenshot_33.webp)
+[<img src="readme_files/screenshots/screenshot_34.webp" width="250"/>](readme_files/screenshots/screenshot_34.webp)
+[<img src="readme_files/screenshots/screenshot_35.webp" width="250"/>](readme_files/screenshots/screenshot_35.webp)
+
+[<img src="readme_files/screenshots/screenshot_36.webp" width="250"/>](readme_files/screenshots/screenshot_36.webp)
+[<img src="readme_files/screenshots/screenshot_37.webp" width="250"/>](readme_files/screenshots/screenshot_37.webp)
+[<img src="readme_files/screenshots/screenshot_38.webp" width="250"/>](readme_files/screenshots/screenshot_38.webp)
+
+[<img src="readme_files/screenshots/screenshot_39.webp" width="250"/>](readme_files/screenshots/screenshot_39.webp)
+[<img src="readme_files/screenshots/screenshot_10.webp" width="250"/>](readme_files/screenshots/screenshot_10.webp)
+
 
 ## Changelog
  * * *
@@ -309,11 +301,3 @@ For a detailed overview of the licensing terms, please refer to the [`license.tx
 >     - platform_01_working.opus (finalCrystine, Attribution 3.0)
 >     - sfx_button.opus (toam, Attribution 3.0)
 >     - water_flow.opus (maxlang7, Creative Commons 0)
-
-
-
-
-
-
-
-
