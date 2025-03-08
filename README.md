@@ -1,143 +1,319 @@
-![header](img/header.jpg) 
+# Prometheus - A Demonstrator Map for my Texture-Set
+![header](readme_files/header.jpg) 
 
-Prometheus is a demonstration map for my texture pack. 
-This map brings together all the unfinished components that have accumulated over the years, 
-including the map 'Stahl'. This will be my final (last) map for Unvanquished.
+## Overview  
+Prometheus is a custom map for the open-source FPS/RTS hybrid game *Unvanquished*.  
+It was designed as a demonstrator for my texture set [mas01](https://github.com/Masmblr/mas01-Texture-Set). 
+
+## Story
+> **CLASSIFIED TRANSMISSION**  
+> **To: Squad Leader – Tactical Response Unit**  
+> **From: Central Command**  
+> **Encryption Level: OMEGA – EYES ONLY**  
+> 
+> **Squad Leader,**  
+>  
+> You're being deployed to **Prometheus Base**.  
+> We don’t have much intel, and what little we do have is fragmented.  
+>  
+> ### **Mission Briefing**  
+>  
+> Prometheus is an inhospitable world—**cold, barren, and endlessly battered by powerful winds**.  
+> The planet’s surface consists primarily of yellow sandstone, with a few scattered outposts spread across the terrain.  
+> The main facility, now abandoned, was one of them.  
+>  
+> There was an **incident** involving a native lifeform.  
+> Reports—what little we recovered—mention an **organic, worm-like structure** that **breached the rear section of the vehicle bay**.  
+> The base administration initiated an investigation.  
+> 
+> According to recovered data fragments, **one or more entities emerged from the breach**.  
+> Shortly after, systems started failing across the facility.  
+> Command was left with no choice but to order an **immediate evacuation**.  
+>  
+> **No reinforcements were sent. No distress signals were answered.**  
+>  
+> This is the last recorded transmission from the base:  
+>  
+> ---
+> 
+> ```
+> [LOG ENTRY 927-A]  
+> DATE: Unknown  
+> LOCATION: Prometheus, Main Base  
+> STATUS: ABANDONED  
+> 
+>     Initial breach detected in vehicle storage.  
+>     Unidentified organic entity confirmed.  
+>     Power failure: 87% of facility offline.  
+>     Security override: FAILED.  
+>     Evacuation order: ISSUED.  
+> 
+> Mission Update: Tactical response team deployed.  
+> Objective: Secure the base and neutralize threats.  
+> ```
+> ---
+>  
+> That was the **last** communication before the base went dark.  
+>  
+> Your mission is **clear**:  
+>  
+> **Secure the base.**  
+> **Assess the threat.**  
+> **Eliminate if necessary.**  
+>  
+> There are no known survivors. **Expect resistance.**  
+> And Squad Leader—whatever came through that breach, **it’s still there.**  
+>  
+> **No reinforcements will be sent.**  
+> You’re on your own.  
+>  
+> **Command out.**  
+
+## Features  
+- **Layout:** Designed to provide fair opportunities for both teams. Each team has an interactive element they can control. First, they must build either a drill (for Humans) or a booster (for Aliens) at the designated locations. Once activated, a red switch must be pressed to trigger the mechanism.
+
+  - Humans can control a bridge, which can block or open a strategic corridor:
+<p align="center">
+  <a href="screenshot40.webp"><img src="readme_files/screenshots/screenshot_40.webp" width="250"/></a>
+  <a href="screenshot41.webp"><img src="readme_files/screenshots/screenshot_41.webp" width="250"/></a>
+</p>
+
+  - Aliens can activate or deactivate a heat-conducting pipeline. When active, it deals **1 HP per second** in damage, creating a hazard for all ground units:  
+<p align="center">
+  <a href="screenshot42.webp"><img src="readme_files/screenshots/screenshot_42.webp" width="250"/></a>
+  <a href="screenshot43.webp"><img src="readme_files/screenshots/screenshot_43.webp" width="250"/></a>
+</p>
+
+## Screenshots:
+<p align="center">
+  <a href="screenshot1.webp"><img src="readme_files/screenshots/screenshot_1.webp" width="250"/></a>
+  <a href="screenshot2.webp"><img src="readme_files/screenshots/screenshot_2.webp" width="250"/></a>
+  <a href="screenshot3.webp"><img src="readme_files/screenshots/screenshot_3.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot4.webp"><img src="readme_files/screenshots/screenshot_4.webp" width="250"/></a>
+  <a href="screenshot5.webp"><img src="readme_files/screenshots/screenshot_5.webp" width="250"/></a>
+  <a href="screenshot6.webp"><img src="readme_files/screenshots/screenshot_6.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot7.webp"><img src="readme_files/screenshots/screenshot_7.webp" width="250"/></a>
+  <a href="screenshot8.webp"><img src="readme_files/screenshots/screenshot_8.webp" width="250"/></a>
+  <a href="screenshot9.webp"><img src="readme_files/screenshots/screenshot_9.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot13.webp"><img src="readme_files/screenshots/screenshot_13.webp" width="250"/></a>
+  <a href="screenshot14.webp"><img src="readme_files/screenshots/screenshot_14.webp" width="250"/></a>
+  <a href="screenshot15.webp"><img src="readme_files/screenshots/screenshot_15.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot16.webp"><img src="readme_files/screenshots/screenshot_16.webp" width="250"/></a>
+  <a href="screenshot17.webp"><img src="readme_files/screenshots/screenshot_17.webp" width="250"/></a>
+  <a href="screenshot18.webp"><img src="readme_files/screenshots/screenshot_18.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot19.webp"><img src="readme_files/screenshots/screenshot_19.webp" width="250"/></a>
+  <a href="screenshot20.webp"><img src="readme_files/screenshots/screenshot_20.webp" width="250"/></a>
+  <a href="screenshot21.webp"><img src="readme_files/screenshots/screenshot_21.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot22.webp"><img src="readme_files/screenshots/screenshot_22.webp" width="250"/></a>
+  <a href="screenshot23.webp"><img src="readme_files/screenshots/screenshot_23.webp" width="250"/></a>
+  <a href="screenshot24.webp"><img src="readme_files/screenshots/screenshot_24.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot25.webp"><img src="readme_files/screenshots/screenshot_25.webp" width="250"/></a>
+  <a href="screenshot26.webp"><img src="readme_files/screenshots/screenshot_26.webp" width="250"/></a>
+  <a href="screenshot27.webp"><img src="readme_files/screenshots/screenshot_27.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot28.webp"><img src="readme_files/screenshots/screenshot_28.webp" width="250"/></a>
+  <a href="screenshot29.webp"><img src="readme_files/screenshots/screenshot_29.webp" width="250"/></a>
+  <a href="screenshot30.webp"><img src="readme_files/screenshots/screenshot_30.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot31.webp"><img src="readme_files/screenshots/screenshot_31.webp" width="250"/></a>
+  <a href="screenshot32.webp"><img src="readme_files/screenshots/screenshot_32.webp" width="250"/></a>
+  <a href="screenshot33.webp"><img src="readme_files/screenshots/screenshot_33.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot34.webp"><img src="readme_files/screenshots/screenshot_34.webp" width="250"/></a>
+  <a href="screenshot35.webp"><img src="readme_files/screenshots/screenshot_35.webp" width="250"/></a>
+  <a href="screenshot36.webp"><img src="readme_files/screenshots/screenshot_36.webp" width="250"/></a>
+</p>
+<p align="center">
+  <a href="screenshot37.webp"><img src="readme_files/screenshots/screenshot_37.webp" width="250"/></a>
+  <a href="screenshot38.webp"><img src="readme_files/screenshots/screenshot_38.webp" width="250"/></a>
+  <a href="screenshot39.webp"><img src="readme_files/screenshots/screenshot_39.webp" width="250"/></a>
+  <a href="screenshot10.webp"><img src="readme_files/screenshots/screenshot_10.webp" width="250"/></a>
+</p>
+
+## Changelog
+ * * *
+    v0.5 (08/03/2025)
+    -Beta, Playtest Release
+ * * *
+
+## Download Binary
+Prometheus v0.5: [map-prometheus_0.5.dpk](https://github.com/Masmblr/map-prometheus_src.dpkdir/releases)
+
+## Dependencies
+mas01-texture-set v1.0: [tex-mas01_1.0.dpk](https://github.com/Masmblr/mas01-Texture-Set/releases)
+
+## Installation
+1. Download map and dependencies.
+2. Place the `.dpk` file(s) in your *Unvanquished* `../Unvanquished/pkg/` directory.
+
+## Development Tools:
+[GIMP](https://www.gimp.org/) \
+[Photoshop](https://www.adobe.com/de/products/photoshop.html) \
+[Audacity](https://www.audacityteam.org/) \
+[NetRadiant](https://netradiant.gitlab.io/) \
+[Blender](https://www.blender.org) \
+[Q3Map2](http://q3map2.robotrenegade.com/) \
+[Notepad++](https://notepad-plus-plus.org/) \
+[Crunch](https://github.com/BinomialLLC/crunch)
+
+##  [Dev-Blog](https://github.com/Masmblr/map-prometheus_src.dpkdir/blob/main/readme_files/old_dev_blog.md) for this project:
 
 ---
 
-24.02.2025:
+## License
+
+This texture set is available for non-commercial use under the terms of the **[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+
+For a detailed overview of the licensing terms, please refer to the [`license.txt`](LICENSE.txt) file.
+
+> **Original Assets:**
+> - about/
+>   - prometheus.txt
+> - env/
+>   - prometheus_sky_src/
+>     - prometheus_sky_bk.jpg
+>     - prometheus_sky_clouds.jpg
+>     - prometheus_sky_color.jpg
+>     - prometheus_sky_dn.jpg
+>     - prometheus_sky_ft.jpg
+>     - prometheus_sky_lf.jpg
+>     - prometheus_sky_rt.jpg
+>     - prometheus_sky_up.jpg
+> 
+> - maps/
+>   - prometheus.map
+> - meta/
+>   - prometheus/
+>     - prometheus.arena
+>     - prometheus.jpg
+> - minimaps/
+>   - prometheus.minimap
+>   - prometheus.webp
+> - models/
+>   - prometheus_custom/
+>     - barrel_01.mtl
+>     - barrel_01.obj
+>     - box_01.mtl
+>     - box_01.obj
+>     - rocks_01.mtl
+>     - rocks_01.obj
+>     - rocks_01_small.mtl
+>     - rocks_01_small.obj
+>     - rocks_02.mtl
+>     - rocks_02.obj
+>     - rocks_03.mtl
+>     - rocks_03.obj
+>     - rocks_04.mtl
+>     - rocks_04.obj
+>     - rocks_05.mtl
+>     - rocks_05.obj
+>     - rocks_06.mtl
+>     - rocks_06.obj
+>     - rocks_07.mtl
+>     - rocks_07.obj
+>     - rocks_gradient_skybox.mtl
+>     - rocks_gradient_skybox.obj
+>     - rocks_misc_01.mtl
+>     - rocks_misc_01.obj
+>     - rocks_misc_02.mtl
+>     - rocks_misc_02.obj
+>     - rocks_misc_03.mtl
+>     - rocks_misc_03.obj
+>     - rocks_near_gradient_skybox.mtl
+>     - rocks_near_gradient_skybox.obj
+>     - rocks_skybox_01.mtl
+>     - rocks_skybox_01.obj
+>     - rocks_skybox_02.mtl
+>     - rocks_skybox_02.obj
+>     - rocks_sun_gradient_skybox.mtl
+>     - rocks_sun_gradient_skybox.obj
+>     - supply_hallway_model.mtl
+>     - supply_hallway_model.obj
+> - scripts/
+>   - prometheus_custom.particle
+>   - prometheus_custom.shader
+>   - shaderlist.txt
+> - textures/
+>   - prometheus_custom_src/
+>     - barrel_01_d.crn
+>     - barrel_01_n.crn
+>     - barrel_01_s.crn
+>     - barrel_top_01_d.crn
+>     - barrel_top_01_n.crn
+>     - barrel_top_01_s.crn
+>     - box_01_d.crn
+>     - box_01_h.crn
+>     - box_01_n.crn
+>     - box_01_s.crn
+>     - build_spot_01_d.crn
+>     - build_spot_02_d.crn
+>     - pipe_02_g1.crn
+>     - rocks01_d.crn
+>     - rocks01_h.crn
+>     - rocks01_n.crn
+>     - rocks01_s.crn
+>     - rocks04_d.crn
+>     - rocks04_h.crn
+>     - rocks04_n.crn
+>     - rocks04_s.crn
+>     - rocks_gradient_skybox.crn
+>     - rocks_gradient_skybox_qer.crn
+>     - sfx_smoke_01.crn
+>     - sfx_sun_01_d.crn
+>     - sign_01.crn
+>     - sign_02.crn
+>     - spark_01.crn
+>     - water_01_d.crn
+>     - water_01_hhm.crn
+> - sounds/
+>   - prometheus_custom/
+>     - sfx_silence.opus
  
-Almost done!   <br />
-Prometheus is in the home stretch. Overall, all areas have been set up. Right now, I'm working on reworking the outer area located a bit outside (see screenshots).
-It’s the only part of the map that offers a good view of the skybox. So, it made sense to also update the skybox itself.
-The capabilities of the Q3/Daemon engine in this regard are quite limited, and you have to come up with a few tricks to create the illusion of a vast landscape.
-That’s why I’m really happy with the result. I decided to combine a standard skybox with "clouds" and a portal sky entity.
-This has the advantage of allowing models to be placed inside the skybox and adjusting the scale of the box itself (312x312x312).
-A higher scale would have been nice, but unfortunately, that leads to [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) issues.
-Beyond that, I’ve reworked some tunnels to increase variation. One of these is a collapsed tunnel.
-The idea was to make it look like it had been destroyed—let’s say by an earthquake—and then partially sunk. But I still wanted the tunnel to be passable.
-A large portion of the map structure is built using Quake-style brush primitives. Trying to rotate or shape them into complex forms as a whole is not a great idea.
-Brushes must always align with the Quake grid's intersections. During compile time, they would clip apart, turning the result into modern art.
-So, I decided to create this tunnel as a model (.obj) instead. These can be positioned without any issues. Generally, this approach is only useful in limited
-cases since models don’t affect visibility calculations (VIS), but in this case, it was perfect!  
+> **Derivative Assets & Third Party:**
+> - gfx/
+>   - prometheus/
+>     - colorgrading.webp (Unvanquished Development), GNU GPLv3, CC BY-SA 2.5)
+> - sounds/
+>   - prometheus_custom/
+>     - ambient_rumble.opus (newlocknew, Attribution 4.0)
+>     - ambient_wind.opus (nsstudios, Attribution 4.0)
+>     - computer_working.opus (simplen00b, Creative Commons 0)
+>     - electric_sparks_01.opus (NachtmahrTV, Creative Commons 0)
+>     - hard_rumble.opus (newlocknew, Attribution 4.0)
+>     - hot_metal.opus (FiveBrosStopMosYT, Attribution 4.0); (Speedenza, Attribution NonCommercial 4.0)
+>     - machine_01.opus (newlocknew, Attribution 4.0)
+>     - machine_02.opus (Erdie, Attribution 4.0)
+>     - machine_03.opus (newlocknew, Attribution 4.0)
+>     - machine_04.opus (PrismLightSoundWorks, Attribution 4.0)
+>     - machine_pump_01.opus (Artninja, Attribution 4.0)
+>     - machine_pump_stop_01.opus (Artninja, Attribution 4.0)
+>     - platform_01_stop_01.opus (finalCrystine, Attribution 3.0)
+>     - platform_01_stop_02.opus (finalCrystine, Attribution 3.0)
+>     - platform_01_working.opus (finalCrystine, Attribution 3.0)
+>     - sfx_button.opus (toam, Attribution 3.0)
+>     - water_flow.opus (maxlang7, Creative Commons 0)
 
-To do:   <br />
-- Location entities  
-- Sounds for interactive entities and ambient noise  
-- Barrels and boxes to populate the map  
-- Special entities like the bridge and middle pipes to add strategic purpose through (build) entity placement  
 
 
-![Screenshot](img/unvanquished_2025-02-24_181537_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_181553_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_181613_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_181647_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_193818_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_193636_000.jpg)
-![Screenshot](img/unvanquished_2025-02-24_194658_000.jpg)
 
----
 
-16.02.2025:
- 
--The alien base is almost finished. One side room is still missing. <br />
--The skybox has been reworked. <br />
 
-![Screenshot](img/unvanquished_2025-02-16_143855_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_143925_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_144002_000.jpg)
-A mysterious object pierced the ground next to the humans' base.
-Did the aliens come through this object? <br />
-![Screenshot](img/unvanquished_2025-02-16_144011_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_144034_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_144052_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_144138_000.jpg)
-![Screenshot](img/unvanquished_2025-02-16_144226_000.jpg)
 
----
 
-27.01.2025:
-
--I’m satisfied with the rocks. I’m still not sure about the texture. The PK rocks might be more suitable, but since they are gray, they would make the scene even darker, and I like the current contrast.  <br />
--The first half of the central area is almost finished. I hope to finish the second half this week.  <br />
-
-![Screenshot](img/unvanquished_2025-01-27_185846_000.jpg)
-![Screenshot](img/unvanquished_2025-01-27_185900_000.jpg)
-![Screenshot](img/unvanquished_2025-01-27_185924_000.jpg)
-![Screenshot](img/unvanquished_2025-01-27_185954_000.jpg)
-
----
-23.01.2025:
-
--The inner outpost area has received another access point because I had forgotten it ;) <br />
--The front area already looks pretty okay so far... <br />
-![Screenshot](img/unvanquished_2025-01-23_072346_000.jpg)
-
----
-19.01.2025:
-
--The human spawn site (called "Outpost") is mostly complete. The main spawn point is located in the center of the ground floor. <br />
-This area is flanked by two pipes, which all aliens except Tyrants can pass through. However, these pipes can be destroyed.
--The upper level consists of a storage area and a control room. These two rooms are connected by two walkways, one of which features a vertical shaft. <br />
--The outpost can be accessed through the main entrance and a broken ventilation shaft, which must first be opened, similar to the destructible pipes. <br />
-
-![Screenshot](img/unvanquished_2025-01-19_174720_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174732_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174750_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174813_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174828_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174840_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174903_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174927_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_174951_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_175045_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_175051_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_175215_000.jpg)
-![Screenshot](img/unvanquished_2025-01-19_180105_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-19_180129_000.jpg)
-
----
-12.01.2025:
-
--After a break, the Human Base is almost complete. It consists of two floors, an elevator, a vertical shaft with ladders, and a staircase.  <br />
-
-![Screenshot](img/unvanquished_2025-01-12_003545_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-12_003457_000.jpg) 
-![Screenshot](img/unvanquished_2025-01-12_003507_000.jpg) 
-
----
-17.11.2024:
-
--Small update to the middle area: The Human Base (H, blue) is located in the upper left area, and the Alien Base (A, red)  <br />
-in the lower right area. Each base has 3 entrances. The fourth can be considered shared. The areas with pink texture are paths that can be unlocked.
-
-![Screenshot](img/unvanquished_2024-11-17_192853_000.jpg) 
-
----
-13.11.2024:
-
--At the moment, I'm still using the .obj format for models. The problem is exporting to the .iqm format in Blender. Unfortunately, this doesn’t seem to work smoothly with the current version of Blender.<br />
--I had the idea to use a railway tunnel entrance as a concept. In a sci-fi theme, of course. Along the upper right wall of the tunnel, there should be a kind of groove (at an angled slope), 
-which looks cool on one hand, but also a bit strange on the other. Perfect!<br />
--I'm considering releasing the old stahl.map as a separate branch with Prometheus. Since a lot has changed, the map is no longer correctly textured. I’m not planning to retexture it, so it will remain as it is.<br />
--The blockout is mostly finished. The level flow includes three connections between the two teams. The short path is intended to be accessible via interaction (build spots).
-Right now, a kind of bridge is planned. The idea is to give the teams the option to open or close this path depending on what suits their strategy.<br />
--The second, longer path has a functional aspect as well. It’s a longer segment made up of pipes and includes a high-damage area, which, like the bridge, can also be triggered. <br />
-The third path is accessible without obstacles. The paths are connected to each other at several points.
--Lastly, here’s a work-in-progress of the alien base. The default base for the aliens should be on the ground. The upper tank-like structure is intended to serve as a better “move spot.” <br />
-These areas are hard for humans to reach, making them strategically advantageous, but they are dead ends. If multiple humans start shooting at this spot, it quickly becomes a death trap.
-
-![Screenshot](img/unvanquished_2024-11-13_071942_000.jpg) 
---- 
-04.11.2024:
-
-The first terrain tests look quite decent.
-
-![Screenshot](img/unvanquished_2024-11-04_185849_000.jpg) 
---- 
-03.11.2024:
-
-![Screenshot](img/unvanquished_2024-11-03_185743_000.jpg) 
-![Screenshot](img/unvanquished_2024-11-03_185718_000.jpg) 
-![Screenshot](img/unvanquished_2024-11-03_185705_000.jpg) 
