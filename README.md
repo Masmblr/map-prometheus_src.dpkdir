@@ -76,6 +76,7 @@ It was designed as a demonstrator for my texture set [mas01](https://github.com/
 
 [<img src="readme_files/screenshots/screenshot_40.webp" width="250"/>](readme_files/screenshots/screenshot_40.webp)
 [<img src="readme_files/screenshots/screenshot_41.webp" width="250"/>](readme_files/screenshots/screenshot_41.webp)
+[<img src="readme_files/screenshots/screenshot_10.webp" width="250"/>](readme_files/screenshots/screenshot_10.webp)
 
 - Aliens can activate or deactivate a heat-conducting pipeline. When active, it deals damage, creating a hazard for all ground units:
 
@@ -131,8 +132,6 @@ It was designed as a demonstrator for my texture set [mas01](https://github.com/
 [<img src="readme_files/screenshots/screenshot_38.webp" width="250"/>](readme_files/screenshots/screenshot_38.webp)
 
 [<img src="readme_files/screenshots/screenshot_39.webp" width="250"/>](readme_files/screenshots/screenshot_39.webp)
-[<img src="readme_files/screenshots/screenshot_10.webp" width="250"/>](readme_files/screenshots/screenshot_10.webp)
-
 
 ## Changelog
  * * *
