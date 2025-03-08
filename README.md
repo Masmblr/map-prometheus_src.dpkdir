@@ -83,11 +83,6 @@ It was designed as a demonstrator for my texture set [mas01](https://github.com/
 [<img src="readme_files/screenshots/screenshot_43.webp" width="250"/>](readme_files/screenshots/screenshot_43.webp)
 
 ## Screenshots:
-[<img src="readme_files/screenshots/screenshot_40.webp" width="250"/>](readme_files/screenshots/screenshot_40.webp)
-[<img src="readme_files/screenshots/screenshot_41.webp" width="250"/>](readme_files/screenshots/screenshot_41.webp)
-[<img src="readme_files/screenshots/screenshot_42.webp" width="250"/>](readme_files/screenshots/screenshot_42.webp)
-
-[<img src="readme_files/screenshots/screenshot_43.webp" width="250"/>](readme_files/screenshots/screenshot_43.webp)
 [<img src="readme_files/screenshots/screenshot_1.webp" width="250"/>](readme_files/screenshots/screenshot_1.webp)
 [<img src="readme_files/screenshots/screenshot_2.webp" width="250"/>](readme_files/screenshots/screenshot_2.webp)
 
