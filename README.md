@@ -173,7 +173,7 @@ mas01-texture-set v1.0: [tex-mas01_1.0.dpk](https://github.com/Masmblr/mas01-Tex
 
 This texture set is available for non-commercial use under the terms of the **[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
 
-For a detailed overview of the licensing terms, please refer to the [`license.txt`](LICENSE.txt) file.
+For a detailed overview of the licensing terms, please refer to the LICENSE file.
 
 > **Original Assets:**
 > - about/
