@@ -4,6 +4,7 @@
 ## Overview  
 Prometheus is a custom map for the open-source FPS/RTS hybrid game *Unvanquished*.  
 It was designed as a demonstrator for my texture set [mas01](https://github.com/Masmblr/mas01-Texture-Set). 
+The dev blog for the project can be found [here](https://github.com/Masmblr/map-prometheus_src.dpkdir/blob/main/readme_files/old_dev_blog.md). 
 
 ## Story
 > **CLASSIFIED TRANSMISSION**  
@@ -158,8 +159,6 @@ mas01-texture-set v1.0: [tex-mas01_1.0.dpk](https://github.com/Masmblr/mas01-Tex
 [Q3Map2](http://q3map2.robotrenegade.com/) \
 [Notepad++](https://notepad-plus-plus.org/) \
 [Crunch](https://github.com/BinomialLLC/crunch)
-
-##  [Dev-Blog](https://github.com/Masmblr/map-prometheus_src.dpkdir/blob/main/readme_files/old_dev_blog.md) for this project:
 
 ---
 
