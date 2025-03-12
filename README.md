@@ -141,10 +141,10 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
  * * *
 
 ## Download Binary
-Prometheus v0.6: [map-prometheus_0.5.dpk](https://github.com/Masmblr/map-prometheus_src.dpkdir/releases)
+[Prometheus v0.6](https://github.com/Masmblr/map-prometheus_src.dpkdir/releases)
 
 ## Dependencies
-mas01-texture-set v1.0: [tex-mas01_1.0.dpk](https://github.com/Masmblr/mas01-Texture-Set/releases)
+[mas01-texture-set v1.0](https://github.com/Masmblr/mas01-Texture-Set/releases)
 
 ## Installation
 1. Download map and dependencies.
