@@ -137,7 +137,17 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
 ## Version History
  * * *
     v0.5 (08/03/2025)
+        -Initial release
     v0.6 (11/03/2025)
+        -Terrain textures rescaled
+        -Pipes visible through skybox fixed
+        -Elevator texture fixed
+        -Minimap enhanced (increased details)
+        -Satellite dish model moved
+        -Glitch build at Purification area fixed
+        -trigger_bridge_pump_01 bug fixed
+        -Elevator button at human base added
+        -Some minor changes
  * * *
 
 ## Download Binary
