@@ -148,6 +148,10 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
         -trigger_bridge_pump_01 bug fixed
         -Elevator button at human base added
         -Some minor changes
+    v0.7 (15/03/2025)
+        -D1 texture is now nonsolid
+        -Center-Lift texture issue fixed
+        -Nonsolid rocks in the Backyard fixed
  * * *
 
 ## Download Binary
