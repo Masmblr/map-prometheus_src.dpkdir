@@ -152,6 +152,9 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
         -D1 texture is now nonsolid
         -Center-Lift texture issue fixed
         -Nonsolid rocks in the Backyard fixed
+        -VIS optimized
+        -Texture errors fixed at Outpost area
+        -Some minor changes
  * * *
 
 ## Download Binary
