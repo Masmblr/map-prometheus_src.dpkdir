@@ -158,7 +158,7 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
  * * *
 
 ## Download Binary
-[Prometheus v0.6](https://github.com/Masmblr/map-prometheus_src.dpkdir/releases)
+[Prometheus v0.7](https://github.com/Masmblr/map-prometheus_src.dpkdir/releases)
 
 ## Dependencies
 [mas01-texture-set v1.0](https://github.com/Masmblr/mas01-Texture-Set/releases)
