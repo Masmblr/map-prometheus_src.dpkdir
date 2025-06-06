@@ -1,0 +1,9 @@
+newmtl textures/prometheus_custom/rocks_01
+Kd 1.000000 0.705825 0.471508
+map_Kd ../textures/prometheus_custom_src/rocks01_d
+newmtl noshader
+Kd 1.000000 1.000000 1.000000
+map_Kd ../noshader
+newmtl textures/common/caulk
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/caulk

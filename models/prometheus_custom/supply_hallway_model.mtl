@@ -1,0 +1,111 @@
+newmtl textures/common/caulk
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/caulk
+newmtl noshader
+Kd 1.000000 1.000000 1.000000
+map_Kd ../noshader
+newmtl textures/shared_mas01/border_09_rm
+Kd 1.000000 0.996387 0.770678
+map_Kd ../textures/shared_mas01_src/border_09_d
+newmtl textures/shared_mas01/border_08_rm
+Kd 0.986306 0.989393 1.000000
+map_Kd ../textures/shared_mas01_src/border_08_d
+newmtl textures/shared_mas01/wall_02
+Kd 0.935649 0.972459 1.000000
+map_Kd ../textures/shared_mas01_src/wall_02_d1
+newmtl textures/shared_mas01/border_05
+Kd 0.984628 0.988448 1.000000
+map_Kd ../textures/shared_mas01_src/border_05_d
+newmtl textures/shared_mas01/step_04
+Kd 1.000000 0.989246 0.991655
+map_Kd ../textures/shared_mas01_src/step_04_d
+newmtl textures/shared_mas01/light_01
+Kd 1.000000 0.804003 0.684272
+map_Kd ../textures/shared_mas01_src/light_01_d
+newmtl textures/shared_mas01/border_09
+Kd 1.000000 0.996387 0.770678
+map_Kd ../textures/shared_mas01_src/border_09_d
+newmtl textures/shared_mas01/concrete_03
+Kd 0.959730 0.979764 1.000000
+map_Kd ../textures/shared_mas01_src/concrete_03_d
+newmtl textures/shared_mas01/light_02
+Kd 1.000000 0.867850 0.804204
+map_Kd ../textures/shared_mas01_src/light_02_d
+newmtl textures/shared_mas01/floor_02_rm
+Kd 1.000000 0.918429 0.838599
+map_Kd ../textures/shared_mas01_src/floor_02_d
+newmtl textures/shared_mas01/wall_01_rm
+Kd 1.000000 0.907515 0.831204
+map_Kd ../textures/shared_mas01_src/wall_01_d
+newmtl textures/shared_mas01/border_01_rm
+Kd 1.000000 0.966096 0.953587
+map_Kd ../textures/shared_mas01_src/border_01_d
+newmtl textures/shared_mas01/light_04
+Kd 0.980135 0.985542 1.000000
+map_Kd ../textures/shared_mas01_src/light_04_d
+newmtl textures/shared_mas01/tech_03
+Kd 0.999030 0.998741 1.000000
+map_Kd ../textures/shared_mas01_src/tech_03_d
+newmtl textures/shared_mas01/border_04_1_rm
+Kd 0.957431 0.991126 1.000000
+map_Kd ../textures/shared_mas01_src/border_04_d1
+newmtl textures/shared_mas01/rail_01
+Kd 0.990463 0.998956 1.000000
+map_Kd ../textures/shared_mas01_src/rail_01_d
+newmtl textures/shared_mas01/border_01
+Kd 1.000000 0.966096 0.953587
+map_Kd ../textures/shared_mas01_src/border_01_d
+newmtl noshader
+Kd 1.000000 1.000000 1.000000
+map_Kd ../noshader
+newmtl textures/shared_mas01/wall_01
+Kd 1.000000 0.907515 0.831204
+map_Kd ../textures/shared_mas01_src/wall_01_d
+newmtl textures/shared_mas01/light_06_rm_g4
+Kd 1.000000 0.000000 0.000000
+map_Kd ../textures/shared_mas01_src/light_06_g4
+newmtl textures/shared_mas01/border_03
+Kd 0.994498 0.995558 1.000000
+map_Kd ../textures/shared_mas01_src/border_03_d
+newmtl textures/shared_mas01/concrete_04
+Kd 1.000000 0.976263 0.940845
+map_Kd ../textures/shared_mas01_src/concrete_04_d
+newmtl textures/common/playerclip
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/playerclip
+newmtl textures/shared_mas01/floor_05_a1
+Kd 0.934178 0.968515 1.000000
+map_Kd ../textures/shared_mas01_src/floor_05_d2
+newmtl textures/shared_mas01/pipe_05_2_rm
+Kd 0.997731 0.994984 1.000000
+map_Kd ../textures/shared_mas01_src/pipe_05_d2
+newmtl textures/shared_mas01/pipe_06_rm
+Kd 1.000000 0.846959 0.871371
+map_Kd ../textures/shared_mas01_src/pipe_06_d
+newmtl textures/shared_mas01/tech_10_2_rm
+Kd 1.000000 0.984770 0.979335
+map_Kd ../textures/shared_mas01_src/tech_10_d
+newmtl textures/common/caulk
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/caulk
+newmtl textures/shared_mas01/pipe_04
+Kd 0.994484 0.992078 1.000000
+map_Kd ../textures/shared_mas01_src/pipe_04_d
+newmtl textures/shared_mas01/tech_10_1_rm
+Kd 1.000000 0.984770 0.979335
+map_Kd ../textures/shared_mas01_src/tech_10_d
+newmtl textures/shared_mas01/tech_10_1_rm
+Kd 1.000000 0.984770 0.979335
+map_Kd ../textures/shared_mas01_src/tech_10_d
+newmtl textures/shared_mas01/tech_10_2_rm
+Kd 1.000000 0.984770 0.979335
+map_Kd ../textures/shared_mas01_src/tech_10_d
+newmtl textures/shared_mas01/pipe_04
+Kd 0.994484 0.992078 1.000000
+map_Kd ../textures/shared_mas01_src/pipe_04_d
+newmtl textures/shared_mas01/pipe_05_2_rm
+Kd 0.997731 0.994984 1.000000
+map_Kd ../textures/shared_mas01_src/pipe_05_d2
+newmtl textures/shared_mas01/pipe_06_rm
+Kd 1.000000 0.846959 0.871371
+map_Kd ../textures/shared_mas01_src/pipe_06_d

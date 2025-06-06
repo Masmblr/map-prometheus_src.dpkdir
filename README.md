@@ -162,10 +162,14 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
 
 ## Dependencies
 [mas01-texture-set v1.0](https://github.com/Masmblr/mas01-Texture-Set/releases)
+[tex-common_src](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir)
 
 ## Installation
-1. Download map and dependencies.
-2. Place the `.dpk` file(s) in your *Unvanquished* `../Unvanquished/pkg/` directory.
+Clone the repo with submodules:
+git clone --recurse-submodules https://github.com/Masmblr/map-prometheus_src.dpkdir.git
+
+Copy the needed folders from Dependencies into the main folder:
+about/, scripts/, and textures/shared_mas01/
 
 ## Development Tools:
 [GIMP](https://www.gimp.org/) \
@@ -207,7 +211,7 @@ For a detailed overview of the licensing terms, please refer to the LICENSE file
 >     - prometheus.jpg
 > - minimaps/
 >   - prometheus.minimap
->   - prometheus.jpg
+>   - prometheus.webp
 > - models/
 >   - prometheus_custom/
 >     - barrel_01.mtl

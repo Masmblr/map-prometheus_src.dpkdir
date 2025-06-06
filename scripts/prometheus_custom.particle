@@ -1,0 +1,202 @@
+// This file is a part of the "map-prometheus_src" map.  
+// To the extent possible under law, Matthias Peters has waived all  
+// copyright and related or neighboring rights to this shader file.  
+//  
+// For inquiries, contact:  
+// Email: masmblr@gmail.com  
+
+// --------------------  
+// textures/prometheus/* 
+// --------------------  
+
+prometheus_custom/smoke_01
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom_src/sfx_smoke_01
+			displacement 1 1 1 ~5
+			velocityType static
+			velocityDir linear
+			velocity 0 0 -100 ~0
+			velocityMagnitude 250~50
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 0 ~1
+			accelerationMagnitude 20
+			rotation 0 0 360
+			radius 10 50 220
+			alpha 0 0.2 0
+			lifeTime 10000
+		}
+		delay 0
+		count infinite
+		period 300 - ~60%
+	}
+}
+
+prometheus_custom/smoke_02
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom_src/sfx_smoke_01
+			displacement 1 1 1 ~5
+			velocityType static
+			velocityDir linear
+			velocity 0 0 60 ~0
+			velocityMagnitude 250~50
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 0 ~1
+			accelerationMagnitude 20
+			rotation 0 0 360
+			radius 10 50 150
+			alpha 0.5 0.2 0.0
+			lifeTime 1200
+		}
+		delay 0
+		count infinite
+		period 300 - ~60%
+	}
+}
+
+prometheus_custom/smoke_01_random
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom_src/sfx_smoke_01
+			displacement 1 1 1 ~20
+			velocityType static
+			velocityDir linear
+			velocity 1 1 1 ~80
+			velocityMagnitude 30~5
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 0 ~6
+			accelerationMagnitude 15
+			rotation 0 0 360
+			radius 0 15 40
+			alpha 0 0.2 0
+			lifeTime 5000
+		}
+		delay 0
+		count infinite
+		period 400 - ~70%
+	}
+}
+
+prometheus_custom/fog_01
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom_src/sfx_smoke_01
+			displacement 1 1 1 ~3.0
+			velocityType	static
+			velocityDir		linear
+			velocityMagnitude	10
+			velocity		0.1 0.1 0.1 ~0.8
+			accelerationType	static
+			accelerationDir		linear
+			acceleration		1.0 0 0.1 ~0.1
+			accelerationMagnitude	6
+			radius		20 80 400
+			alpha 0 0.4 0.0
+			rotation	0 ~360 ~360
+			bounce		0.0
+			overdrawProtection 
+			lifeTime 50000
+		}
+		count infinite
+		delay 700
+		period 3500 - ~5%
+	}
+}
+
+prometheus_custom/spark_01
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom/spark_01
+			displacement 1 1 1 ~10
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 50
+			velocity -1 -1 -1 ~50
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~5
+			accelerationMagnitude	300
+			radius 2 4 1
+			alpha 1200 .9 0
+			rotation 10 ~180 ~45
+			bounce 0.6
+			dynamicLight 0 120 0 { 0.7 0.5 0.3 }
+			lifeTime 8000
+		}
+		count infinite
+		delay 2
+		period 1500 - ~33%
+	}
+	ejector
+	{
+		particle
+		{
+			shader sync textures/prometheus_custom/spark_01
+			displacement 1 1 1 ~10
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 50
+			velocity 0 0 -1 ~50
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~5
+			accelerationMagnitude	250
+			radius 0 4 1
+			alpha 1200 .9 0
+			rotation 0 ~180 ~45
+			bounce 0.9
+			dynamicLight 0 50 0 { 0.7 0.5 0.3 }
+			lifeTime 12000
+		}
+		count infinite
+		delay 5
+		period 3500 - ~33%
+	}
+}
+
+prometheus_custom/dl_red_flicker
+{
+	ejector
+	{
+		particle
+		{
+			displacement 0 0 0 0
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 0
+			velocity 0 0 0 0
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 0 0
+			accelerationMagnitude 0
+			rotation 0 0 0
+			radius 0 0 0
+			alpha 0 0 0
+			bounce 0
+			dynamicLight 0 400 240 { 0.9 0.0 0.0 }
+			lifeTime 500
+		}
+		count infinite
+		delay 1
+		period 1000 - ~45%
+	}
+}

@@ -1,0 +1,7 @@
+{
+	backgroundColor 0.0 0.0 0.0 0.5
+	zone {
+		bounds 0 0 0 0 0 0
+		image "minimaps/prometheus"  -6033.500000 -3640.000000 7563.500000 9957.000000
+	}
+}

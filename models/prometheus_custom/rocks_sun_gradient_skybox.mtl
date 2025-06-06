@@ -1,0 +1,9 @@
+newmtl textures/common/caulk
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/caulk
+newmtl textures/prometheus_custom/sfx_sun_01
+Kd 1.000000 0.866521 0.667613
+map_Kd ../textures/prometheus_custom_src/sfx_sun_01_d
+newmtl textures/prometheus_custom/sfx_sun_01
+Kd 1.000000 0.866521 0.667613
+map_Kd ../textures/prometheus_custom_src/sfx_sun_01_d

@@ -1,0 +1,6 @@
+newmtl textures/common/caulk
+Kd 1.000000 1.000000 1.000000
+map_Kd ../textures/common/caulk
+newmtl textures/prometheus_custom/rocks_gradient_skybox
+Kd 1.000000 0.705628 0.470980
+map_Kd ../textures/prometheus_custom_src/rocks_gradient_skybox

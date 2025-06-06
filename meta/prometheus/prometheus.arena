@@ -1,0 +1,5 @@
+{
+	map "prometheus"
+	longname "Prometheus"
+	type "unvanquished"
+}
