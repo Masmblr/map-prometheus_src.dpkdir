@@ -1,0 +1,10 @@
+# Drop
+/*
+# Include dirs
+!*/
+
+# Keep
+!*.map
+!*.txt
+!*.md
+!*.shader
