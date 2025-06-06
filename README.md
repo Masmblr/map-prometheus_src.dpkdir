@@ -75,64 +75,64 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
 
 - Humans can control a bridge, which can block or open a strategic corridor:
 
-[<img src="readme_files/screenshots/screenshot_40.webp" width="250"/>](readme_files/screenshots/screenshot_40.webp)
-[<img src="readme_files/screenshots/screenshot_41.webp" width="250"/>](readme_files/screenshots/screenshot_41.webp)
+[<img src="readme_files/screenshots/screenshot_40.jpg" width="250"/>](readme_files/screenshots/screenshot_40.jpg)
+[<img src="readme_files/screenshots/screenshot_41.jpg" width="250"/>](readme_files/screenshots/screenshot_41.jpg)
 
 - Aliens can activate or deactivate a heat-conducting pipeline. When active, it deals damage, creating a hazard for all ground units:
 
-[<img src="readme_files/screenshots/screenshot_42.webp" width="250"/>](readme_files/screenshots/screenshot_42.webp)
-[<img src="readme_files/screenshots/screenshot_43.webp" width="250"/>](readme_files/screenshots/screenshot_43.webp)
+[<img src="readme_files/screenshots/screenshot_42.jpg" width="250"/>](readme_files/screenshots/screenshot_42.jpg)
+[<img src="readme_files/screenshots/screenshot_43.jpg" width="250"/>](readme_files/screenshots/screenshot_43.jpg)
 
 ## Screenshots:
-[<img src="readme_files/screenshots/screenshot_1.webp" width="250"/>](readme_files/screenshots/screenshot_1.webp)
-[<img src="readme_files/screenshots/screenshot_2.webp" width="250"/>](readme_files/screenshots/screenshot_2.webp)
-[<img src="readme_files/screenshots/screenshot_10.webp" width="250"/>](readme_files/screenshots/screenshot_10.webp)
+[<img src="readme_files/screenshots/screenshot_1.jpg" width="250"/>](readme_files/screenshots/screenshot_1.jpg)
+[<img src="readme_files/screenshots/screenshot_2.jpg" width="250"/>](readme_files/screenshots/screenshot_2.jpg)
+[<img src="readme_files/screenshots/screenshot_10.jpg" width="250"/>](readme_files/screenshots/screenshot_10.jpg)
 
-[<img src="readme_files/screenshots/screenshot_3.webp" width="250"/>](readme_files/screenshots/screenshot_3.webp)
-[<img src="readme_files/screenshots/screenshot_4.webp" width="250"/>](readme_files/screenshots/screenshot_4.webp)
-[<img src="readme_files/screenshots/screenshot_5.webp" width="250"/>](readme_files/screenshots/screenshot_5.webp)
+[<img src="readme_files/screenshots/screenshot_3.jpg" width="250"/>](readme_files/screenshots/screenshot_3.jpg)
+[<img src="readme_files/screenshots/screenshot_4.jpg" width="250"/>](readme_files/screenshots/screenshot_4.jpg)
+[<img src="readme_files/screenshots/screenshot_5.jpg" width="250"/>](readme_files/screenshots/screenshot_5.jpg)
 
-[<img src="readme_files/screenshots/screenshot_6.webp" width="250"/>](readme_files/screenshots/screenshot_6.webp)
-[<img src="readme_files/screenshots/screenshot_7.webp" width="250"/>](readme_files/screenshots/screenshot_7.webp)
-[<img src="readme_files/screenshots/screenshot_8.webp" width="250"/>](readme_files/screenshots/screenshot_8.webp)
+[<img src="readme_files/screenshots/screenshot_6.jpg" width="250"/>](readme_files/screenshots/screenshot_6.jpg)
+[<img src="readme_files/screenshots/screenshot_7.jpg" width="250"/>](readme_files/screenshots/screenshot_7.jpg)
+[<img src="readme_files/screenshots/screenshot_8.jpg" width="250"/>](readme_files/screenshots/screenshot_8.jpg)
 
-[<img src="readme_files/screenshots/screenshot_9.webp" width="250"/>](readme_files/screenshots/screenshot_9.webp)
-[<img src="readme_files/screenshots/screenshot_13.webp" width="250"/>](readme_files/screenshots/screenshot_13.webp)
-[<img src="readme_files/screenshots/screenshot_14.webp" width="250"/>](readme_files/screenshots/screenshot_14.webp)
+[<img src="readme_files/screenshots/screenshot_9.jpg" width="250"/>](readme_files/screenshots/screenshot_9.jpg)
+[<img src="readme_files/screenshots/screenshot_13.jpg" width="250"/>](readme_files/screenshots/screenshot_13.jpg)
+[<img src="readme_files/screenshots/screenshot_14.jpg" width="250"/>](readme_files/screenshots/screenshot_14.jpg)
 
-[<img src="readme_files/screenshots/screenshot_15.webp" width="250"/>](readme_files/screenshots/screenshot_15.webp)
-[<img src="readme_files/screenshots/screenshot_16.webp" width="250"/>](readme_files/screenshots/screenshot_16.webp)
-[<img src="readme_files/screenshots/screenshot_17.webp" width="250"/>](readme_files/screenshots/screenshot_17.webp)
+[<img src="readme_files/screenshots/screenshot_15.jpg" width="250"/>](readme_files/screenshots/screenshot_15.jpg)
+[<img src="readme_files/screenshots/screenshot_16.jpg" width="250"/>](readme_files/screenshots/screenshot_16.jpg)
+[<img src="readme_files/screenshots/screenshot_17.jpg" width="250"/>](readme_files/screenshots/screenshot_17.jpg)
 
-[<img src="readme_files/screenshots/screenshot_18.webp" width="250"/>](readme_files/screenshots/screenshot_18.webp)
-[<img src="readme_files/screenshots/screenshot_19.webp" width="250"/>](readme_files/screenshots/screenshot_19.webp)
-[<img src="readme_files/screenshots/screenshot_20.webp" width="250"/>](readme_files/screenshots/screenshot_20.webp)
+[<img src="readme_files/screenshots/screenshot_18.jpg" width="250"/>](readme_files/screenshots/screenshot_18.jpg)
+[<img src="readme_files/screenshots/screenshot_19.jpg" width="250"/>](readme_files/screenshots/screenshot_19.jpg)
+[<img src="readme_files/screenshots/screenshot_20.jpg" width="250"/>](readme_files/screenshots/screenshot_20.jpg)
 
-[<img src="readme_files/screenshots/screenshot_21.webp" width="250"/>](readme_files/screenshots/screenshot_21.webp)
-[<img src="readme_files/screenshots/screenshot_22.webp" width="250"/>](readme_files/screenshots/screenshot_22.webp)
-[<img src="readme_files/screenshots/screenshot_23.webp" width="250"/>](readme_files/screenshots/screenshot_23.webp)
+[<img src="readme_files/screenshots/screenshot_21.jpg" width="250"/>](readme_files/screenshots/screenshot_21.jpg)
+[<img src="readme_files/screenshots/screenshot_22.jpg" width="250"/>](readme_files/screenshots/screenshot_22.jpg)
+[<img src="readme_files/screenshots/screenshot_23.jpg" width="250"/>](readme_files/screenshots/screenshot_23.jpg)
 
-[<img src="readme_files/screenshots/screenshot_24.webp" width="250"/>](readme_files/screenshots/screenshot_24.webp)
-[<img src="readme_files/screenshots/screenshot_25.webp" width="250"/>](readme_files/screenshots/screenshot_25.webp)
-[<img src="readme_files/screenshots/screenshot_26.webp" width="250"/>](readme_files/screenshots/screenshot_26.webp)
+[<img src="readme_files/screenshots/screenshot_24.jpg" width="250"/>](readme_files/screenshots/screenshot_24.jpg)
+[<img src="readme_files/screenshots/screenshot_25.jpg" width="250"/>](readme_files/screenshots/screenshot_25.jpg)
+[<img src="readme_files/screenshots/screenshot_26.jpg" width="250"/>](readme_files/screenshots/screenshot_26.jpg)
 
-[<img src="readme_files/screenshots/screenshot_27.webp" width="250"/>](readme_files/screenshots/screenshot_27.webp)
-[<img src="readme_files/screenshots/screenshot_28.webp" width="250"/>](readme_files/screenshots/screenshot_28.webp)
-[<img src="readme_files/screenshots/screenshot_29.webp" width="250"/>](readme_files/screenshots/screenshot_29.webp)
+[<img src="readme_files/screenshots/screenshot_27.jpg" width="250"/>](readme_files/screenshots/screenshot_27.jpg)
+[<img src="readme_files/screenshots/screenshot_28.jpg" width="250"/>](readme_files/screenshots/screenshot_28.jpg)
+[<img src="readme_files/screenshots/screenshot_29.jpg" width="250"/>](readme_files/screenshots/screenshot_29.jpg)
 
-[<img src="readme_files/screenshots/screenshot_30.webp" width="250"/>](readme_files/screenshots/screenshot_30.webp)
-[<img src="readme_files/screenshots/screenshot_31.webp" width="250"/>](readme_files/screenshots/screenshot_31.webp)
-[<img src="readme_files/screenshots/screenshot_32.webp" width="250"/>](readme_files/screenshots/screenshot_32.webp)
+[<img src="readme_files/screenshots/screenshot_30.jpg" width="250"/>](readme_files/screenshots/screenshot_30.jpg)
+[<img src="readme_files/screenshots/screenshot_31.jpg" width="250"/>](readme_files/screenshots/screenshot_31.jpg)
+[<img src="readme_files/screenshots/screenshot_32.jpg" width="250"/>](readme_files/screenshots/screenshot_32.jpg)
 
-[<img src="readme_files/screenshots/screenshot_33.webp" width="250"/>](readme_files/screenshots/screenshot_33.webp)
-[<img src="readme_files/screenshots/screenshot_34.webp" width="250"/>](readme_files/screenshots/screenshot_34.webp)
-[<img src="readme_files/screenshots/screenshot_35.webp" width="250"/>](readme_files/screenshots/screenshot_35.webp)
+[<img src="readme_files/screenshots/screenshot_33.jpg" width="250"/>](readme_files/screenshots/screenshot_33.jpg)
+[<img src="readme_files/screenshots/screenshot_34.jpg" width="250"/>](readme_files/screenshots/screenshot_34.jpg)
+[<img src="readme_files/screenshots/screenshot_35.jpg" width="250"/>](readme_files/screenshots/screenshot_35.jpg)
 
-[<img src="readme_files/screenshots/screenshot_36.webp" width="250"/>](readme_files/screenshots/screenshot_36.webp)
-[<img src="readme_files/screenshots/screenshot_37.webp" width="250"/>](readme_files/screenshots/screenshot_37.webp)
-[<img src="readme_files/screenshots/screenshot_38.webp" width="250"/>](readme_files/screenshots/screenshot_38.webp)
+[<img src="readme_files/screenshots/screenshot_36.jpg" width="250"/>](readme_files/screenshots/screenshot_36.jpg)
+[<img src="readme_files/screenshots/screenshot_37.jpg" width="250"/>](readme_files/screenshots/screenshot_37.jpg)
+[<img src="readme_files/screenshots/screenshot_38.jpg" width="250"/>](readme_files/screenshots/screenshot_38.jpg)
 
-[<img src="readme_files/screenshots/screenshot_39.webp" width="250"/>](readme_files/screenshots/screenshot_39.webp)
+[<img src="readme_files/screenshots/screenshot_39.jpg" width="250"/>](readme_files/screenshots/screenshot_39.jpg)
 
 ## Version History
  * * *
@@ -207,7 +207,7 @@ For a detailed overview of the licensing terms, please refer to the LICENSE file
 >     - prometheus.jpg
 > - minimaps/
 >   - prometheus.minimap
->   - prometheus.webp
+>   - prometheus.jpg
 > - models/
 >   - prometheus_custom/
 >     - barrel_01.mtl
@@ -291,7 +291,7 @@ For a detailed overview of the licensing terms, please refer to the LICENSE file
 > **Derivative Assets & Third Party:**
 > - gfx/
 >   - prometheus/
->     - colorgrading.webp (Unvanquished Development), GNU GPLv3, CC BY-SA 2.5)
+>     - colorgrading.jpg (Unvanquished Development), GNU GPLv3, CC BY-SA 2.5)
 > - sounds/
 >   - prometheus_custom/
 >     - ambient_rumble.opus (newlocknew, Attribution 4.0)
