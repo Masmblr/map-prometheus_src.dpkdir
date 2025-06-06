@@ -1,5 +1,5 @@
 [submodule "Dependencies/tex-common_src"]
-	path = dependencies/tex-common_src
+	path = Dependencies/tex-common_src
 	url = https://github.com/UnvanquishedAssets/tex-common_src.dpkdir.git
 [submodule "Dependencies/mas01-Texture-Set"]
 	path = Dependencies/mas01-Texture-Set
