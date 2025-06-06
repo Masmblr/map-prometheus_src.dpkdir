@@ -1,3 +1,6 @@
+[submodule "dependencies/tex-common_src"]
+	path = dependencies/tex-common_src
+	url = https://github.com/UnvanquishedAssets/tex-common_src.dpkdir.git
 [submodule "Dependencies/mas01-Texture-Set"]
 	path = Dependencies/mas01-Texture-Set
 	url = https://github.com/Masmblr/mas01-Texture-Set.git
