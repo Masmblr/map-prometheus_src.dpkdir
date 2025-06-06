@@ -165,9 +165,9 @@ The dev blog for the project can be found [here](https://github.com/Masmblr/map-
 [tex-common_src](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir)
 
 ## Installation
-Clone the repo with submodules:
-git clone --recurse-submodules https://github.com/Masmblr/map-prometheus_src.dpkdir.git
-
+Clone the repo with submodules: 
+`git clone --recurse-submodules https://github.com/Masmblr/map-prometheus_src.dpkdir.git`
+ 
 Copy the needed folders from Dependencies into the main folder:
 about/, scripts/, and textures/shared_mas01/
 
