@@ -1,4 +1,4 @@
-[submodule "mas01-Texture-Set"]
-	path = mas01-Texture-Set
+[submodule "Dependencies/mas01-Texture-Set"]
+	path = Dependencies/mas01-Texture-Set
 	url = https://github.com/Masmblr/mas01-Texture-Set.git
 	branch = game-unvanquished
