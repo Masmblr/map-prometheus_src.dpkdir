@@ -205,6 +205,7 @@ For a detailed overview of the licensing terms, please refer to the LICENSE file
 > 
 > - maps/
 >   - prometheus.map
+>   - bonus/stahl.map
 > - meta/
 >   - prometheus/
 >     - prometheus.arena
