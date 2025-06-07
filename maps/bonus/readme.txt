@@ -1,0 +1,1 @@
+This is the predecessor map of Prometheus. A tiny arena map testing the early texture set.
